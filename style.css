@@ -54,6 +54,10 @@
     background-color: #6bb3bc;
 }
 
+.button:hover{
+    /* width: 58px; */
+    background: #5d5589;
+}
 
 
 
